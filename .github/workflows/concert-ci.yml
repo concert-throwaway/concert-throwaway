@@ -1,0 +1,12 @@
+name: concert-ci
+on:
+  pull_request:
+  push:
+    branches: [main, staging]
+permissions:
+  contents: read
+jobs:
+  ci:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "throwaway CI for Concert live validation"
