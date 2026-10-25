@@ -1,0 +1,82 @@
+version: 0
+tracker:
+  kind: github-projects-v2
+  project: concert-throwaway/concert-throwaway
+  status_field: Status
+  steering_issue: 40
+protection: enforce
+humans:
+  admins:
+  - login: angonz
+    id: 15031867
+  approvers:
+  - login: angonz
+    id: 15031867
+  contributors: []
+runners:
+- name: live-test
+  identity: concert-live-worker[bot]
+  bot_user_id: 347837245
+  caps:
+  - docker
+  - claude-code
+  max_parallel: 1
+  can_coordinate: true
+pm_identity:
+  login: concert-live-pm[bot]
+  bot_user_id: 347837152
+defaults:
+  retry_budget: 4
+  infra_retries: 3
+  timeout: 60m
+ci:
+  local:
+    tests: echo tests ok
+  triggers:
+  - ready_for_review
+  - sha_changed_after_ready
+  runs_on: github-hosted
+  trust_local: false
+dod:
+  tests: pass
+protected_paths:
+- process.yaml
+- .concert/**
+- .github/**
+- CODEOWNERS
+- docs/decisions/**
+- docs/lessons/**
+- AGENTS.md
+- docs/architecture.md
+- Makefile
+- package.json
+- pyproject.toml
+- tox.ini
+- pytest.ini
+- jest.config.*
+- vitest.config.*
+security:
+  sensitive_paths:
+  - '**/auth/**'
+  - '**/permissions/**'
+  - '**/payments/**'
+  - '**/settings*'
+  - '**/migrations/**'
+staging:
+  persistent_deploy: false
+  irreversible_paths:
+  - '**/migrations/**'
+workflows:
+  allowed_hashes:
+    concert-ci.yml:
+    - sha256: c768542aa30a5a012f6e7fb80518a4bfcec92f19f5f2c23e260f28c09dd9c318
+      template: concert-ci@1.0.0
+      inputs: 74d2f452aec58674531924ac7f8053490c3f2acd8ba52de88a22d59804b4595f
+    concert-watchdog.yml:
+    - sha256: f6718cf3e649065b323078eb9ebdeab6b862c0c5b4b952257b3e2dc8e396c345
+      template: concert-watchdog@1.0.0
+      inputs: aa05acc64dcf87aa9ae10b154864c0e98b1d33ddec215583dacd5d702b809f69
+states:
+  verifying_staging:
+    rerun_on_failure: 1
+    on_failure: auto_revert
