@@ -1,0 +1,21 @@
+.github/workflows/concert-ci.yml
+  s_f3f5335312522f::t_e3df3e1bccabba 1,5-6,9-11,13-14,17-19
+.github/workflows/concert-watchdog.yml
+  s_f3f5335312522f::t_c3487c5d08d978 1-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "bc6ecbbbfd618fddba9c100bcbebdb65cf2e9ff7",
+  "prompts": {},
+  "sessions": {
+    "s_f3f5335312522f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ab088378-f50a-400d-b70a-30f1152fa2d9",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Andrés González <andres@aulasneo.com>"
+    }
+  }
+}
