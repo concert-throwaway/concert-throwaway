@@ -152,3 +152,5 @@
 {"comment_id":6415353513,"line":"published","republished":false,"schema":1,"seq":76}
 {"event":{"data":{"key":"kit:uat:5eb020a74b4269d3182dd6418fd7d90696ae6581","result":{"comment_id":6415355789}},"epoch":1,"kind":"outcome","prev":"90cd21ef090f196f4700783bf626e4b04a8d421c9ce3bf1dcde476cafed816a9","schema":1,"seq":77},"line":"event","schema":1,"seq":77}
 {"comment_id":6415357287,"line":"published","republished":false,"schema":1,"seq":77}
+{"event":{"data":{"arg":"5eb020a74b4269d3182dd6418fd7d90696ae6581","author_id":15031867,"author_login":"angonz","body":"/approve uat 5eb020a74b4269d3182dd6418fd7d90696ae6581","comment_id":6415366046,"created_at":1793015667,"kind":"uat","verb":"approve"},"epoch":1,"kind":"gate_passage","prev":"dba31919a94520494f73a8f407b9f14ff99b0c28fe9a11c52818b83177ac242c","schema":1,"seq":78},"line":"event","schema":1,"seq":78}
+{"event":{"data":{"actor_id":15031867,"head_sha":"5eb020a74b4269d3182dd6418fd7d90696ae6581","item":"uat","kind":"approval","passed":true},"epoch":1,"kind":"evidence","prev":"5de32476334535ae27e9661a250da749373d6b1fb7943cf5dc900c902d781d06","schema":1,"seq":79},"line":"event","schema":1,"seq":79}
