@@ -55,3 +55,4 @@
 {"event":{"data":{"action":"mark_ready","key":"ready:0","number":67},"epoch":1,"kind":"intent","prev":"cdf120baac5ad7557ab9b21e444d9c631a242fadb8c2d3c1dfabed3d3ea5a1a5","schema":1,"seq":28},"line":"event","schema":1,"seq":28}
 {"comment_id":6406376539,"line":"published","republished":false,"schema":1,"seq":28}
 {"event":{"data":{"key":"ready:0","result":{"number":67}},"epoch":1,"kind":"outcome","prev":"ea05ab85d444a1d2fed728e4da71a81e24fc60b5c63d16b541e7a4aa679dcfcd","schema":1,"seq":29},"line":"event","schema":1,"seq":29}
+{"comment_id":6406378385,"line":"published","republished":false,"schema":1,"seq":29}
