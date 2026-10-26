@@ -37,3 +37,4 @@
 {"event":{"data":{"action":"open_pr","base":"staging","head":"pm/41","key":"open_pr","title":"Concert #41"},"epoch":1,"kind":"intent","prev":"48424868b783096eee3e8f0a4324a5dd1f272e8cdcb0cdaffd847ac42829afa4","schema":1,"seq":19},"line":"event","schema":1,"seq":19}
 {"comment_id":6406322564,"line":"published","republished":false,"schema":1,"seq":19}
 {"event":{"data":{"key":"open_pr","result":{"number":67}},"epoch":1,"kind":"outcome","prev":"6c4057791efd39de4b688db1e2bb2edfc5b07cd2e983b001e21d10cbf759f47b","schema":1,"seq":20},"line":"event","schema":1,"seq":20}
+{"comment_id":6406325697,"line":"published","republished":false,"schema":1,"seq":20}
