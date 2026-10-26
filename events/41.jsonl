@@ -69,3 +69,4 @@
 {"event":{"data":{"head":"206c02613ae391ea073068ae0082152ab824190b","issued_at":1792979560,"reviewer":"code","run_id":"r-41-8","runner":"live-test","state":"in_review"},"epoch":1,"kind":"assignment","prev":"88c74d81aeed83caceed3055144a74dae3883bd97aeaf00ee97b72ffcac19434","schema":1,"seq":35},"line":"event","schema":1,"seq":35}
 {"comment_id":6406475825,"line":"published","republished":false,"schema":1,"seq":35}
 {"event":{"data":{"head_sha":"206c02613ae391ea073068ae0082152ab824190b","item":"tests","kind":"ci","passed":true,"policy_rev":"fa8c07e1ab50935b051796bc3eb72c1372fef343a04a67ef693762c78715cc21","workflow_hash":"c768542aa30a5a012f6e7fb80518a4bfcec92f19f5f2c23e260f28c09dd9c318"},"epoch":1,"kind":"evidence","prev":"73f7f01bbb5622344df2ae175feefe8822db914503041500895cd1179cffaf02","schema":1,"seq":36},"line":"event","schema":1,"seq":36}
+{"comment_id":6406540168,"line":"published","republished":false,"schema":1,"seq":36}
