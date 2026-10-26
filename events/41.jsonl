@@ -39,3 +39,4 @@
 {"event":{"data":{"key":"open_pr","result":{"number":67}},"epoch":1,"kind":"outcome","prev":"6c4057791efd39de4b688db1e2bb2edfc5b07cd2e983b001e21d10cbf759f47b","schema":1,"seq":20},"line":"event","schema":1,"seq":20}
 {"comment_id":6406325697,"line":"published","republished":false,"schema":1,"seq":20}
 {"event":{"data":{"action":"post_kit","key":"kit:spec:d0500f7d410662d5823178244a3d871c2fa6bce1","kind":"spec","rev":"d0500f7d410662d5823178244a3d871c2fa6bce1"},"epoch":1,"kind":"intent","prev":"fec609f49fc8107816c4d3909a860ae09c87590f397fe2c3a5b787b183b51921","schema":1,"seq":21},"line":"event","schema":1,"seq":21}
+{"comment_id":6406329068,"line":"published","republished":false,"schema":1,"seq":21}
