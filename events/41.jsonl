@@ -165,3 +165,4 @@
 {"event":{"data":{"action":"merge","expected_head":"5eb020a74b4269d3182dd6418fd7d90696ae6581","key":"merge","number":67},"epoch":1,"kind":"intent","prev":"8f70b55e081aff92368ee5695e946f2a8862deb6e817c2df6db73ce64a2c2367","schema":1,"seq":83},"line":"event","schema":1,"seq":83}
 {"comment_id":6415412951,"line":"published","republished":false,"schema":1,"seq":83}
 {"event":{"data":{"key":"merge","result":{"sha":"55d64e935572ba9cf732f50ee7b3014f3cadb801"}},"epoch":1,"kind":"outcome","prev":"456830a5c02f485492f3ad910611d51f5e0e1a9fef4d1892248ad5f246fed284","schema":1,"seq":84},"line":"event","schema":1,"seq":84}
+{"comment_id":6415417321,"line":"published","republished":false,"schema":1,"seq":84}
