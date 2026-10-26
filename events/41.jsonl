@@ -104,3 +104,4 @@
 {"comment_id":6414935567,"line":"published","republished":false,"schema":1,"seq":52}
 {"event":{"data":{"head_sha":"5eb020a74b4269d3182dd6418fd7d90696ae6581","item":"tests","kind":"ci","passed":true,"policy_rev":"48d4f3f5fcd85b16f89f91c3e3e8d60b7c674a3e4036905b6ae54bb05478666c","workflow_hash":"c768542aa30a5a012f6e7fb80518a4bfcec92f19f5f2c23e260f28c09dd9c318"},"epoch":1,"kind":"evidence","prev":"19cc87ab1bd5047ad2c8d642ccdb081c78a221579d8d40e3fcfdcd3a8f56109a","schema":1,"seq":53},"line":"event","schema":1,"seq":53}
 {"comment_id":6414966343,"line":"published","republished":false,"schema":1,"seq":53}
+{"event":{"data":{"head":"5eb020a74b4269d3182dd6418fd7d90696ae6581","issued_at":1793014283,"reviewer":"security","run_id":"r-41-13","runner":"live-test","state":"in_review"},"epoch":1,"kind":"assignment","prev":"a6f19145e8b6e3db303089955fd2b83748464a1d9f0c61e4a26a48ab3780fd57","schema":1,"seq":54},"line":"event","schema":1,"seq":54}
