@@ -1,2 +1,3 @@
 {"event":{"data":{"author_id":15031867,"command":"reset","comment_id":6415203639,"issue":41,"state":"in_review"},"epoch":1,"kind":"admin_command","prev":"","schema":1,"seq":1},"line":"event","schema":1,"seq":1}
 {"comment_id":6415208613,"line":"published","republished":false,"schema":1,"seq":1}
+{"event":{"data":{"at":1793015126,"issue":41},"epoch":1,"kind":"admin_reset_applied","prev":"076577fa7f5cb64c023248efbecd637ee8e04d6f8f9cd25189fe7e3b4278b20f","schema":1,"seq":2},"line":"event","schema":1,"seq":2}
