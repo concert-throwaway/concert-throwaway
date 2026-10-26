@@ -86,3 +86,4 @@
 {"comment_id":6406652949,"line":"published","republished":false,"schema":1,"seq":42}
 {"comment_id":6406652949,"line":"published","republished":false,"schema":1,"seq":43}
 {"comment_id":6406652949,"line":"published","republished":false,"schema":1,"seq":44}
+{"event":{"data":{"head_sha":"206c02613ae391ea073068ae0082152ab824190b","item":"tests","kind":"ci","passed":true,"policy_rev":"48d4f3f5fcd85b16f89f91c3e3e8d60b7c674a3e4036905b6ae54bb05478666c","workflow_hash":"c768542aa30a5a012f6e7fb80518a4bfcec92f19f5f2c23e260f28c09dd9c318"},"epoch":1,"kind":"evidence","prev":"ee2bcef406548e08e6c755771b3ff8e36ae01d49b9281f6358c90f46e80555e6","schema":1,"seq":45},"line":"event","schema":1,"seq":45}
