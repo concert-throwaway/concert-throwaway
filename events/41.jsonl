@@ -81,3 +81,8 @@
 {"event":{"data":{"head_sha":"206c02613ae391ea073068ae0082152ab824190b","item":"code","kind":"review","passed":true},"epoch":1,"kind":"evidence","prev":"cb4303702f3c533643c94fdddbcbf838d7ce446489b38815dc7445b2b3a14ffc","schema":1,"seq":42},"line":"event","schema":1,"seq":42}
 {"event":{"data":{"head_sha":"206c02613ae391ea073068ae0082152ab824190b","item":"security","kind":"review","passed":true},"epoch":1,"kind":"evidence","prev":"beeb14ddf07b2ed2c26b07c29702846bc8672134f77bee0568d75cf01a7ef12e","schema":1,"seq":43},"line":"event","schema":1,"seq":43}
 {"event":{"data":{"from":"in_review","to":"uat","trigger":"clean"},"epoch":1,"kind":"transition","prev":"737e0e4910022fb389397d2a4884dd52b246aa496ff3810b21c3a7dfd16abdf3","schema":1,"seq":44},"line":"event","schema":1,"seq":44}
+{"comment_id":6406652949,"line":"published","republished":false,"schema":1,"seq":40}
+{"comment_id":6406652949,"line":"published","republished":false,"schema":1,"seq":41}
+{"comment_id":6406652949,"line":"published","republished":false,"schema":1,"seq":42}
+{"comment_id":6406652949,"line":"published","republished":false,"schema":1,"seq":43}
+{"comment_id":6406652949,"line":"published","republished":false,"schema":1,"seq":44}
