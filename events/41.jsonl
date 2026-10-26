@@ -156,3 +156,4 @@
 {"event":{"data":{"actor_id":15031867,"head_sha":"5eb020a74b4269d3182dd6418fd7d90696ae6581","item":"uat","kind":"approval","passed":true},"epoch":1,"kind":"evidence","prev":"5de32476334535ae27e9661a250da749373d6b1fb7943cf5dc900c902d781d06","schema":1,"seq":79},"line":"event","schema":1,"seq":79}
 {"comment_id":6415372695,"line":"published","republished":false,"schema":1,"seq":78}
 {"comment_id":6415372695,"line":"published","republished":false,"schema":1,"seq":79}
+{"event":{"data":{"from":"human_uat","to":"integrating","trigger":"approve_uat"},"epoch":1,"kind":"transition","prev":"ada4596af367df83a7acfbf3f57f2a0cbe1148b7af5beadc898e955c0c32f1d8","schema":1,"seq":80},"line":"event","schema":1,"seq":80}
