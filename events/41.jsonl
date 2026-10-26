@@ -19,3 +19,4 @@
 {"event":{"data":{"key":"question:0","result":{"comment_id":6406269983}},"epoch":1,"kind":"outcome","prev":"bbc1451b573eddb03257775dc3d874d9a2a7095dc1c85a2660c502ebfd0d27c0","schema":1,"seq":10},"line":"event","schema":1,"seq":10}
 {"comment_id":6406270875,"line":"published","republished":false,"schema":1,"seq":10}
 {"event":{"data":{"author_id":15031867,"comment_id":6406278577,"text":"The repo has no app code yet; there is no earlier stage to wait for (ignore 'Stage 1'). Use Python 3 standard library only (http.server), in hello.py at the repo root. GET /hello returns HTTP 200, Content-Type text/plain, body exactly 'hello'. Add one unittest in test_hello.py. No other files.","to":"triage"},"epoch":1,"kind":"answered","prev":"f2a0addec004f3a19e5ca00c8ffab7ded707e7d1bcfa20bdfc2fc63878bbfce0","schema":1,"seq":11},"line":"event","schema":1,"seq":11}
+{"comment_id":6406282456,"line":"published","republished":false,"schema":1,"seq":11}
