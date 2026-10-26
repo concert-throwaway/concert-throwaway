@@ -94,3 +94,4 @@
 {"event":{"data":{"head_sha":"206c02613ae391ea073068ae0082152ab824190b","item":null,"kind":"uat","passed":true},"epoch":1,"kind":"evidence","prev":"dc97a75b33ea798be5282ac69d1be88dbdef5b35210042787f69596ce447130d","schema":1,"seq":48},"line":"event","schema":1,"seq":48}
 {"comment_id":6414917253,"line":"published","republished":false,"schema":1,"seq":47}
 {"comment_id":6414917253,"line":"published","republished":false,"schema":1,"seq":48}
+{"event":{"data":{"action":"rebase","branch":"pm/41","head":"206c02613ae391ea073068ae0082152ab824190b","key":"rebase:0:0","stage":"uat"},"epoch":1,"kind":"intent","prev":"97e64793024063c5aa1ef3d859dc6b417c8db8278e5f07b10874a57a733d7d14","schema":1,"seq":49},"line":"event","schema":1,"seq":49}
