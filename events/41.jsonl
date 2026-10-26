@@ -52,3 +52,4 @@
 {"event":{"data":{"from":"implementing","to":"in_review","trigger":"done"},"epoch":1,"kind":"transition","prev":"cf623ec688f8d20deff1229d28ad83096bfe4ab88286733497bbb4a11513cc48","schema":1,"seq":27},"line":"event","schema":1,"seq":27}
 {"comment_id":6406373922,"line":"published","republished":false,"schema":1,"seq":26}
 {"comment_id":6406373922,"line":"published","republished":false,"schema":1,"seq":27}
+{"event":{"data":{"action":"mark_ready","key":"ready:0","number":67},"epoch":1,"kind":"intent","prev":"cdf120baac5ad7557ab9b21e444d9c631a242fadb8c2d3c1dfabed3d3ea5a1a5","schema":1,"seq":28},"line":"event","schema":1,"seq":28}
