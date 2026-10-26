@@ -66,3 +66,4 @@
 {"comment_id":6406425257,"line":"published","republished":false,"schema":1,"seq":33}
 {"event":{"data":{"at":1792979476,"run_id":"r-41-7","state":"in_review"},"epoch":1,"kind":"lease_expired","prev":"7ed1aa9a3e140f82382190be537815f7c12252db532e7a404d87fca26045c00c","schema":1,"seq":34},"line":"event","schema":1,"seq":34}
 {"comment_id":6406459784,"line":"published","republished":false,"schema":1,"seq":34}
+{"event":{"data":{"head":"206c02613ae391ea073068ae0082152ab824190b","issued_at":1792979560,"reviewer":"code","run_id":"r-41-8","runner":"live-test","state":"in_review"},"epoch":1,"kind":"assignment","prev":"88c74d81aeed83caceed3055144a74dae3883bd97aeaf00ee97b72ffcac19434","schema":1,"seq":35},"line":"event","schema":1,"seq":35}
