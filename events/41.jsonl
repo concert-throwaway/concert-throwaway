@@ -44,3 +44,5 @@
 {"comment_id":6406333383,"line":"published","republished":false,"schema":1,"seq":22}
 {"event":{"data":{"arg":"d0500f7d410662d5823178244a3d871c2fa6bce1","author_id":15031867,"author_login":"angonz","body":"/approve spec d0500f7d410662d5823178244a3d871c2fa6bce1","comment_id":6406339735,"created_at":1792978853,"kind":"spec","spec_hash":"d0500f7d410662d5823178244a3d871c2fa6bce1","verb":"approve"},"epoch":1,"kind":"gate_passage","prev":"98a56b46c65058aea471912307a4a8905119a6bb38e39bd4bbc455bb81a37313","schema":1,"seq":23},"line":"event","schema":1,"seq":23}
 {"event":{"data":{"from":"spec_approval","to":"implementing","trigger":"approve_spec"},"epoch":1,"kind":"transition","prev":"78ae5f6858155a93d7dea1c41d7612edf571e7e11e3421102c5c5906ace76305","schema":1,"seq":24},"line":"event","schema":1,"seq":24}
+{"comment_id":6406343595,"line":"published","republished":false,"schema":1,"seq":23}
+{"comment_id":6406343595,"line":"published","republished":false,"schema":1,"seq":24}
