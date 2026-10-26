@@ -100,3 +100,4 @@
 {"comment_id":6414928097,"line":"published","republished":false,"schema":1,"seq":50}
 {"event":{"data":{"from":"uat","to":"in_review","trigger":"refreshed"},"epoch":1,"kind":"transition","prev":"db10061b2a08a5d2a1e2f272aadf456c310e524d6d8753e55a5a32fab7f97a9f","schema":1,"seq":51},"line":"event","schema":1,"seq":51}
 {"comment_id":6414931414,"line":"published","republished":false,"schema":1,"seq":51}
+{"event":{"data":{"head":"5eb020a74b4269d3182dd6418fd7d90696ae6581","issued_at":1793014133,"reviewer":"code","run_id":"r-41-12","runner":"live-test","state":"in_review"},"epoch":1,"kind":"assignment","prev":"b8978a4c53707cc2d32901bfc9ca4d5962905ce8c1e71af555041cb324197b33","schema":1,"seq":52},"line":"event","schema":1,"seq":52}
