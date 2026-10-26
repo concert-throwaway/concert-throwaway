@@ -150,3 +150,4 @@
 {"comment_id":6415349531,"line":"published","republished":false,"schema":1,"seq":75}
 {"event":{"data":{"action":"post_kit","key":"kit:uat:5eb020a74b4269d3182dd6418fd7d90696ae6581","kind":"uat","rev":"5eb020a74b4269d3182dd6418fd7d90696ae6581"},"epoch":1,"kind":"intent","prev":"d7e03d0fdeb86a310af801d04e960d40ca48f4306a428ca1f7d5f20c8ba5a6d4","schema":1,"seq":76},"line":"event","schema":1,"seq":76}
 {"comment_id":6415353513,"line":"published","republished":false,"schema":1,"seq":76}
+{"event":{"data":{"key":"kit:uat:5eb020a74b4269d3182dd6418fd7d90696ae6581","result":{"comment_id":6415355789}},"epoch":1,"kind":"outcome","prev":"90cd21ef090f196f4700783bf626e4b04a8d421c9ce3bf1dcde476cafed816a9","schema":1,"seq":77},"line":"event","schema":1,"seq":77}
