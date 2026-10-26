@@ -169,3 +169,4 @@
 {"event":{"data":{"from":"integrating","to":"verifying_staging","trigger":"ready_to_merge"},"epoch":1,"kind":"transition","prev":"7db985107a0f934c07ffde2dbbab0e4f6128833074fdd1f233e4a14ad98945ea","schema":1,"seq":85},"line":"event","schema":1,"seq":85}
 {"comment_id":6415422722,"line":"published","republished":false,"schema":1,"seq":85}
 {"event":{"data":{"head":"55d64e935572ba9cf732f50ee7b3014f3cadb801","issued_at":1793015784,"reviewer":null,"run_id":"r-41-19","runner":"live-test","state":"verifying_staging"},"epoch":1,"kind":"assignment","prev":"cac7c13ca45e2c29db3a6da6e3d7247a7214348d102ee20f91029b5ed7006ff2","schema":1,"seq":86},"line":"event","schema":1,"seq":86}
+{"comment_id":6415426079,"line":"published","republished":false,"schema":1,"seq":86}
